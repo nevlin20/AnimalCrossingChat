@@ -1,4 +1,3 @@
-# AnimalCrossingChat
 <!doctype html>
 <html>
 <head>
