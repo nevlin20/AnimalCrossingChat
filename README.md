@@ -2,8 +2,6 @@
 <!doctype html>
 <html>
 <head>
-  <title>WEB1 - Welcome</title>
-  <title>프로필 설정하기</title>
   <meta charset="utf-8">
 </head>
 <body>
